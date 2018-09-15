@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.1.2'
+ruby '2.4.4'
 
 gem 'sii_chile', path: 'gem'
 gem 'sinatra'
