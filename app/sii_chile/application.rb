@@ -14,7 +14,7 @@ module SIIChile
     use Rack::JSONP
 
     get '/' do
-      redirect 'https://github.com/sagmor/sii_chile'
+      redirect 'https://github.com/fhernandezvega/sii_chile'
     end
 
     get '/consulta' do
